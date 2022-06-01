@@ -1,4 +1,4 @@
-package ejemplos_excepciones;
+package Otros;
 
 public class excepcion_01 {
 

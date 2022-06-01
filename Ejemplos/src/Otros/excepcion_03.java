@@ -1,4 +1,4 @@
-package ejemplos_excepciones;
+package Otros;
 import java.io.*;
 
 /*Este ejemplo muestra un caso de tratamiento con try-catch obligatorios para
