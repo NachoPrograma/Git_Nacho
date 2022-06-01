@@ -15,5 +15,6 @@ public class Test
       System.out.println(e.getMessage());
     }
     System.out.println("Continúa la ejecución");
+    System.out.println("Mensaje para Eugenio, hola");
   }
 }
