@@ -55,6 +55,10 @@ public class PruebaTipos {
 		}
 		//System.out.println("Por un total de: " + total + " Pts.");
 		entrada.close();
+		
+		
+		
+		//No me deja ni escribir en el programa, no puedo iniciar las clases, por lo que se hace muy complicado el explicar y arreglar fallos;
 	}
 
 }
